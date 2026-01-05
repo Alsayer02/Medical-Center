@@ -50,3 +50,7 @@ A robust, enterprise-grade **RESTful API** and **Administrative Dashboard** buil
 │   └── Traits           # Reusable Logic (Database Transactions)
 └── routes
     └── api.php          # Protected API Endpoints
+
+👨‍💻 Developed By
+Abdulla - Backend Developer
+https://github.com/Alsayer02
